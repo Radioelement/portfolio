@@ -1,0 +1,31 @@
+{
+  "title": "Nuclear Darkness",
+  "description": "<p>Old active players...</p> <img src='data/photos/image1.png' style='max-width:100%; border-radius:8px;'> <img src='data/photos/image2.png' style='max-width:100%; border-radius:8px;'> <img src='data/photos/image3.png' style='max-width:100%; border-radius:8px;'> <img src='data/photos/image4.png' style='max-width:100%; border-radius:8px;'> <img src='data/photos/image5.png' style='max-width:100%; border-radius:8px;'> <img src='data/photos/image6.png' style='max-width:100%; border-radius:8px;'> <img src='data/photos/image7.png' style='max-width:100%; border-radius:8px;'> <img src='data/photos/image8.png' style='max-width:100%; border-radius:8px;'>",
+  "versions": [
+    {
+      "id": "v0.7",
+      "title": "Version 0.7 | 13.03.2024",
+      "content": "<p>Updates:</p><ul><li>Mission sytem added ! (still not finished, go bob's daughter for missions)</li><li>Lag is completely gone</li><li>Weapon system replaced with RCM so now game have weapon holstering and weapon dropping.</li><li>Game menu replaced by new one. (Made by @pr01fessional, special thanks to him)</li></ul>"
+    },
+    {
+      "id": "v0.6",
+      "title": "Version 0.6 | 18.12.2023",
+      "content": "<p>Updates:</p><ul><li>Foggy atmosphere desnity changed. (0.8 ---> 0.6)</li><li>Tier 2 gun shop added</li><li>Map improved ! (2X and some new vacations)</li><li>Shop system updated. Now if you will buy a gun, your datastorage balance too will change.</li><li>More guns.</li><li>Machine guns are removed from bunker. (Will be updated by my own model)</li><li>Forest added 👌</li><li>Zombies updated (now not killing each other, locations changed and some statics change)</li><li>Car added. (Its free for a while)</li><li>Third person camera updated (locked to 10)</li></ul>"
+    },
+    {
+      "id": "v0.6.5",
+      "title": "Version 0.6.5 | 7.02.2024",
+      "content": "<p>Updates:</p><ul><li>Outsider Base expanded (Added 2 more cars).</li><li>Map expanded (2X !).</li><li>Added gas mask and gas to some vacations.</li><li>HD admin replaced with new my own admin system.</li><li>Reduced lag.</li><li>Added levels with new name tags (Levels don't work for now, they're postponed)</li></ul>"
+    },
+    {
+      "id": "v0.4",
+      "title": "Version 0.4 | 2.12.2023",
+      "content": "<p>Updates:</p><ul><li>Foggy atmosphere changing bug fix (now its not changing randomly)</li><li>Gun shop's gun's images added</li><li>Map is updated</li><li>SAVE SYSTEM IS ADDED (only for money and samples, thats mean your purchased guns is not will be saved)</li><li>Bunker code is added into game (its somewhere in the map)</li><li>Sell Zone added</li><li>Money system changed. When you killed a zombie you need collect his/her sample and sell them to Sell Zone</li></ul>"
+    },
+    {
+      "id": "v0.2",
+      "title": "Version 0.2 | 25.10.2023 | Kickstart of the game",
+      "content": "<p>Updates:</p><ul><li>Foggy atmosphere</li><li>Tier 1 Gun shop</li><li>Map (this version only for v1.0 Beta will be updated next update)</li><li>3 types of Zombies</li><li>Some necessary things</li></ul>"
+    }
+  ]
+}
